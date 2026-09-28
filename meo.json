@@ -1,0 +1,30 @@
+{
+  "active": true,
+  "password_required": true,
+  "users": {
+    "uid_test01": {
+      "name": "Test_Account_1",
+      "password": "TestPassword123"
+    },
+    "uid_test02": {
+      "name": "Test_Account_2",
+      "password": "TestPassword456"
+    },
+    "uid_test03": {
+      "name": "Test_Account_3",
+      "password": "TestPassword789"
+    },
+    "uid_test04": {
+      "name": "Test_Account_4",
+      "password": "TestPassword000"
+    }
+  },
+  "blocked": [],
+  "floating_notice": {
+    "enabled": true,
+    "message": "This is a Test Environment",
+    "position": "bottom-middle",
+    "color": "#00ffaa",
+    "duration": 0
+  }
+}
